@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692648755602",
+    "project_id": "digivoteauth",
+    "storage_bucket": "digivoteauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692648755602:android:f36c6ce5701f85591f814b",
+        "android_client_info": {
+          "package_name": "com.example.new_digivote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692648755602-08pj1m5h3tddbmdmaupsefuobga4olik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGWfMuYr3o6J4Na8eahrIIkOmzbIGE69Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692648755602-08pj1m5h3tddbmdmaupsefuobga4olik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
