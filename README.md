@@ -5,7 +5,7 @@
 A new Flutter project.
 An online voting android application which can handle multiple elections simultaneously along with user-defined administrator of the election.
 
-[Download ](https://github.com/mokshajmera002/eElection/raw/master/eElection.apk) download apk file.
+[Download ](https://drive.google.com/file/d/1Ohb4S4RmOuhDyftSG4RzH260b6epvfJg/view?usp=drive_link) download apk file.
 
 ## Getting Started
 
