@@ -3,7 +3,7 @@
 # DigiVote
 
 A new Flutter project.
-An online voting android application which can handle multiple elections simultaneously along with user-defined administrator of the election.
+An online voting flutter based application which can handle multiple elections simultaneously along with user-defined administrator of the election.
 
 [Download ](https://drive.google.com/file/d/1Ohb4S4RmOuhDyftSG4RzH260b6epvfJg/view?usp=drive_link) download apk file.
 
